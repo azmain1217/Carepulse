@@ -84,7 +84,7 @@ const RegisterForm = ({user }: {user: User}) => {
                 label="Phone Number"
                 placeholder="555-555-5555"
                 iconSrc="/assets/icons/email.svg"
-                iconAlt="email"
+                iconAlt="emaill"
             />
         </div>
 
